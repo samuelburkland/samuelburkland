@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @samuelburkland
-- 👀 I’m interested in making music, researching medical device technologies, InfoSec & more!
-- 🌱 I’m currently learning a little bit of everything!
-- 💞️ I’m looking to collaborate on ...
 - 📫 [LinkedIn](https://www.linkedin.com/in/samuel-burkland-6a812a55/)
 
 <!---
